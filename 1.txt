@@ -1,0 +1,13 @@
+﻿控煙辦執事先生:
+
+本人投訴以下地點有多人吸煙，公然違反《吸煙(公眾衛生)條例》。
+
+地點：{{address}}
+
+時段：{{reportDate}} {{reportStartTime}} 至 {{reportEndTime}}
+
+請貴辦公室跟進以上投訴並以電郵回覆跟進情況。謝謝！
+
+投訴人
+
+{{lastName}}{{title}}
